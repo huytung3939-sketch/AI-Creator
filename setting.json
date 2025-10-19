@@ -1,0 +1,90 @@
+{
+  "home": {
+    "mainTitle": "HuyTung AI Creator",
+    "subtitle": "Sáng tạo theo cách của bạn",
+    "useSmartTitleWrapping": false,
+    "smartTitleWrapWords": 2
+  },
+  "apps": [
+    {
+      "id": "free-generation",
+      "title": "Tạo ảnh tự do",
+      "description": "Tạo ảnh mới từ văn bản hoặc chỉnh sửa ảnh tải lên bằng prompt của riêng bạn.",
+      "icon": "✨"
+    },
+    {
+      "id": "dress-the-model",
+      "title": "Mặc trang phục cho mẫu",
+      "description": "Thử trang phục mới cho người mẫu từ ảnh của bạn, giữ nguyên khuôn mặt và vóc dáng.",
+      "icon": "👕"
+    },
+    {
+      "id": "outfit-splitter",
+      "title": "Tách trang phục",
+      "description": "Tách từng món đồ quần áo và phụ kiện từ ảnh của bạn ra thành các ảnh sản phẩm riêng biệt.",
+      "icon": "✂️"
+    },
+    {
+      "id": "image-interpolation",
+      "title": "Khắc nhập, khắc xuất",
+      "description": "Phân tích cặp ảnh để tạo prompt, sau đó áp dụng prompt đó cho một ảnh tham chiếu.",
+      "icon": "☯️"
+    },
+    {
+      "id": "photo-restoration",
+      "title": "Phục chế ảnh cũ",
+      "description": "Phục hồi màu sắc và chi tiết cho những bức ảnh cũ, bị hư hỏng, mang ký ức trở lại.",
+      "icon": "🖼️"
+    }
+  ],
+  "dressTheModel": {
+    "mainTitle": "Mặc Trang Phục Cho Mẫu",
+    "subtitle": "Tải ảnh người mẫu, trang phục và/hoặc phụ kiện để bắt đầu",
+    "useSmartTitleWrapping": true,
+    "smartTitleWrapWords": 2,
+    "uploaderCaptionModel": "Tải ảnh người mẫu",
+    "uploaderDescriptionModel": "Ảnh chân dung hoặc toàn thân, rõ mặt",
+    "uploaderCaptionClothing": "Tải ảnh trang phục",
+    "uploaderDescriptionClothing": "Ảnh sản phẩm rõ ràng, chính diện",
+    "uploaderCaptionAccessory": "Tải ảnh Phụ kiện / Sản phẩm",
+    "uploaderDescriptionAccessory": "Túi xách, đồng hồ hoặc sản phẩm quảng cáo..."
+  },
+  "photoRestoration": {
+    "mainTitle": "Phục Chế Ảnh Cũ",
+    "subtitle": "Tải lên bức ảnh cần phục chế để bắt đầu",
+    "useSmartTitleWrapping": true,
+    "smartTitleWrapWords": 2,
+    "uploaderCaption": "Tải ảnh cũ",
+    "uploaderDescription": "Nhấn vào khung ảnh để tải lên ảnh cần phục chế, sửa chữa"
+  },
+  "freeGeneration": {
+    "mainTitle": "Tạo Ảnh Tự Do",
+    "subtitle": "Giải phóng sức sáng tạo của bạn với prompt",
+    "useSmartTitleWrapping": true,
+    "smartTitleWrapWords": 2,
+    "uploaderCaption1": "Tải ảnh 1 (tùy chọn)",
+    "uploaderDescription1": "Ảnh để chỉnh sửa hoặc làm nguồn cảm hứng",
+    "uploaderCaption2": "Tải ảnh 2 (tùy chọn)",
+    "uploaderDescription2": "Ảnh thứ hai để kết hợp hoặc tham chiếu"
+  },
+  "imageInterpolation": {
+    "mainTitle": "Khắc nhập, khắc xuất",
+    "subtitle": "Phân tích sự biến đổi từ cặp ảnh và áp dụng cho ảnh mới",
+    "useSmartTitleWrapping": true,
+    "smartTitleWrapWords": 3,
+    "uploaderCaptionInput": "Ảnh Input",
+    "uploaderDescriptionInput": "Hình ảnh bắt đầu",
+    "uploaderCaptionOutput": "Ảnh Output",
+    "uploaderDescriptionOutput": "Hình ảnh mong muốn",
+    "uploaderCaptionReference": "Ảnh Tham chiếu",
+    "uploaderDescriptionReference": "Ảnh để áp dụng thay đổi"
+  },
+  "outfitSplitter": {
+    "mainTitle": "Tách Trang Phục",
+    "subtitle": "Tải lên ảnh một người để tách các món đồ",
+    "useSmartTitleWrapping": true,
+    "smartTitleWrapWords": 2,
+    "uploaderCaption": "Tải ảnh gốc",
+    "uploaderDescription": "Nhấn vào khung ảnh để tải lên ảnh người mẫu..."
+  }
+}
